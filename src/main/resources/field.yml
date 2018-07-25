@@ -1,5 +1,37 @@
 fields:
   1:
-    x: 1
-    y: 1
-    z: 1
+    red:
+      x: 1
+      y: 1
+      z: 1
+    blue:
+      x: 1
+      y: 1
+      z: 1
+  2:
+    red:
+      x: 1
+      y: 1
+      z: 1
+    blue:
+      x: 1
+      y: 1
+      z: 1
+  3:
+    red:
+      x: 1
+      y: 1
+      z: 1
+    blue:
+      x: 1
+      y: 1
+      z: 1
+  4:
+    red:
+      x: 1
+      y: 1
+      z: 1
+    blue:
+      x: 1
+      y: 1
+      z: 1

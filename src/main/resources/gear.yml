@@ -1,0 +1,20 @@
+speed:
+  name: 'speed up'
+  description: '足を早くする'
+  effect:
+    speed: 2
+    power: 0
+
+power:
+  name: 'power up'
+  description: '攻撃力をアップする'
+  effect:
+    speed: 0
+    power: 2
+
+N:
+  name: 'None'
+  description: '付与されていません。'
+  effect:
+    speed: 0
+    power: 0

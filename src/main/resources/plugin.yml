@@ -5,18 +5,15 @@ main: mae.siegebattle.SiegeBattle
 commands:
   battle:
     usage: /<command>
-    permission: mae.siegebattle
     description: test app
     permission-message: You don't have <permission>
 
   user:
       usage: /<command>
-      permission: mae.siegebattle
       description: test app
       permission-message: You don't have <permission>
 
   kit:
         usage: /<command>
-        permission: mae.siegebattle
         description: test app
         permission-message: You don't have <permission>
